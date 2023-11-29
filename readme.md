@@ -155,6 +155,6 @@
 
 <br>
 
-Credit: [zaynab mousali](https://github.com/0xabdulkhalid)
+Credit: [zaynab mahmoud mousali](https://github.com/0xabdulkhalid)
 
 Last Edited on: 29/11/2023
